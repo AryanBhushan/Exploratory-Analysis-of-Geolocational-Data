@@ -1,16 +1,19 @@
 # Exploratory-Analysis-of-Geolocational-Data
-Project Description
+## Project Description
+```
 Experience a day in the life of a Data Scientist/Engineer by doing a full-fledged analysis of
 real-life data. Fetch, Clean, Analyse and run K Means Clustering on Geolocational data to
 recommend accommodations to immigrants to a city!
-
-# Objective
+```
+## Objective
+```
 This project involves the use of K-Means Clustering to find the best accommodation for
 students in Bangalore (or any other city of your choice) by classifying accommodation for
 incoming students on the basis of their preferences on amenities, budget and proximity to
 the location.
-
-# Project Context
+```
+## Project Context
+```
 Implementing the project will take you through the daily life of a data science engineer -
 from data preparation on real-life datasets, to visualising the data and running machine
 learning algorithms, to presenting the results.
@@ -31,4 +34,4 @@ at its highest concentration, ensuring short commute times to the location and m
 customers served.If potential hotel locations are being evaluated, a site that caters to a wide
 variety of tastes would be ideal, since one would want every guest to have something to
 their liking.
-
+```
